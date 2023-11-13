@@ -10,7 +10,7 @@ Tecnologias utilizadas: typescript (Angular 17)
 
 <ul>
    <li>npm i : Para crear los node_modules del proyecto</li>
-   <li>ng server : Para inicializar el proyecto (http://localhost:4200)</li>
+   <li>ng serve : Para inicializar el proyecto (http://localhost:4200)</li>
    <li>npm test : Para lanzar las pruebas</li>
 </ul>
 
